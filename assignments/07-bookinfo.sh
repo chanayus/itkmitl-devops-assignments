@@ -1,4 +1,4 @@
-
+#!/bin/sh
 docker build -t details bookinfo/details
 docker build -t products bookinfo/product
 docker build -t ratings bookinfo/ratings
